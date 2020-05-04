@@ -36,7 +36,7 @@ Cheats include:
 -zoom 
 -instant open chest
 -instant repairs
-Infinites:
+**Infinites:**
 -ammo
 -ammo in clip (no reload)
 -armor
@@ -50,6 +50,7 @@ Infinites:
 
 
 **FarCry4.ct**: In case you want to add or edit the trainer i also provided the cheat image so you can make edits and recompile.
+
  **Explarrow.ct**: This is probably my favorite cheat honestly, its just infinite exploding arrows. So the game is pretty much the same but now you feel like an apache heli but be careful you still only have 100 health and the game becomes, try not to kill myself. 
 
 # AssultCube
