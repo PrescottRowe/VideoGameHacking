@@ -4,8 +4,7 @@ Please keep these cheats in offline mode. No one likes to play with a hacker.
 **FarCry4Trainer.exe**: This is the executable that will inject into your current running far cry. 
 >Also please note that when you launch the exe you are injecting to the RAM and if the game is saved it will also save the code injections. Backup your game files to avoid any risk of corrupted files. As you are about to see i went deep on this one, there are a ton of cheats (I love FarCry4)
 Cheats include:
->
--Arena points
+>-Arena points
 -Bow always has tension
 -Disarm enemys on shot
 -Fly
